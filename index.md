@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Edvaldo da Rosa - Software Developer"
+layout: default
 ---
- 
-# Edvaldo da Rosa
+
+#Sobre
