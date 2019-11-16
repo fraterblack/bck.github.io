@@ -1,8 +1,6 @@
 ---
-layout: post
-title: "Titulo do post!"
+layout: page
+title: "Edvaldo da Rosa - Software Developer"
 ---
  
-# Olá
-
-Trying it!
+# Edvaldo da Rosa
