@@ -15,6 +15,8 @@ Telefone: (48) 99646-5910
 
 [Github](https://github.com/fraterblack)
 
+[Medium](https://medium.com/@fraterblack)
+
 ### Alguns trabalhos
 [Meu Time na Rede](http://www.meutimenarede.com.br/)
 
