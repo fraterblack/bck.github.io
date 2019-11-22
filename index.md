@@ -40,21 +40,7 @@ Telefone: (48) 99646-5910
 
 [Machado & Kronemberger Arquitetura e Design](http://www.machadokronemberger.com.br/)
 
-[Agência Nueva](http://www.agencianueva.com.br/)
-
-[Mirelli Elias - Cantora/Apresentadora](http://www.mirellielias.com.br)
-
-[CRG Engenharia e Construções](http://www.construtoracrg.com.br/)
-
-[Ceres - Associação Criciumense de Apoio a SaÃºde Mental](http://www.ceressaudemental.org.br/)
-
 [Bezbatti Imóveis](http://www.bezbatti.com/imoveis)
-
-[Visintin & Fascin Advogados Associados](http://www.vf.adv.br/)
-
-[Cirsures](http://www.cirsures.sc.gov.br/)
-
-[Grupo VIPCAR](http://www.grupovipcar.com.br/)
 
 [Pereira Automóveis](http://www.pereiraautomoveis.com.br/)
 
