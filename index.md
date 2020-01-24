@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Ao longo da minha carreira como desenvolver tive a oportunidade de trabalhar em projetos, alguns utilizando metodologias ágeis, que envolviam o uso das seguintes linguagens/tecnologias: PHP, Java, C#, MySQL, PostgreSql, Javascript (VanillaJs, JQuery/AngularJs/Angular), TypeScript, HTML5, CSS3.
+Ao longo da minha carreira como desenvolver tive a oportunidade de trabalhar em projetos, alguns utilizando metodologias ágeis, que envolviam o uso das seguintes linguagens/tecnologias: PHP (Laravel e Symfony), Java, NodeJs, C#, MySQL, PostgreSql, Javascript (VanillaJs, JQuery/AngularJs/Angular), TypeScript, HTML5, CSS3.
 
-Possuo experiência prática com outras linguagens incluindo C, C++ e node.
+Possuo experiência prática com outras linguagens incluindo C, C++.
 
 Tambem já trabalhei em projetos que envolviam a instalação e o gerenciamento de servidores Linux/Apache/Nginx na nuvem.
 
@@ -17,7 +17,7 @@ Telefone: (48) 99646-5910
 
 [Medium](https://medium.com/@fraterblack)
 
-### Alguns trabalhos
+### Alguns sites que já desenvolvi
 [Meu Time na Rede](http://www.meutimenarede.com.br/)
 
 [Loucos por Festa](http://www.loucosporfesta.com.br/) 
