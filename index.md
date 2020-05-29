@@ -24,8 +24,6 @@ Telefone: (48) 99646-5910
 
 [Copaza Descartáveis Plásticos](http://www.copaza.com.br/)
 
-[CCC Importação e Exportação](http://www.cccnet.com.br/)
-
 [Zaniboni + Arquitetos](http://www.zaniboniarquitetos.com.br/)
 
 [Plazapel Soluções em Descartáveis](http://www.plazapel.com.br/)
@@ -34,8 +32,6 @@ Telefone: (48) 99646-5910
 
 [Salvaro Implementos Rodoviários](http://www.salvaroimplementos.com.br/)
 
-[Hotel Bormon](http://www.hotelbormon.com.br/)
-
 [Teixeira Têxtil](http://www.teixeiratextil.com.br/)
 
 [Machado & Kronemberger Arquitetura e Design](http://www.machadokronemberger.com.br/)
@@ -43,7 +39,5 @@ Telefone: (48) 99646-5910
 [Bezbatti Imóveis](http://www.bezbatti.com/imoveis)
 
 [Pereira Automóveis](http://www.pereiraautomoveis.com.br/)
-
-[Engenharia Castanhel](http://www.castanhel.com.br/)
 
 [Uni Plásticos](http://www.uniplasticos.com.br)
