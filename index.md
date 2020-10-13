@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Ao longo da minha carreira como desenvolver tive a oportunidade de trabalhar em projetos, alguns utilizando metodologias ágeis, que envolviam o uso das seguintes linguagens/tecnologias: PHP (Laravel e Symfony), Java, NodeJs, C#, MySQL, PostgreSql, Javascript (VanillaJs, JQuery/AngularJs/Angular), TypeScript, HTML5, CSS3.
+Ao longo da minha carreira tive a oportunidade de trabalhar em projetos que envolviam o uso das seguintes linguagens/tecnologias: PHP (Laravel e Symfony), C#, Java, NodeJs, MySQL, PostgreSql, Javascript (VanillaJs, JQuery), Framerworks Javascript AngularJs e Angular, TypeScript, HTML5, CSS3.
 
-Possuo experiência prática com outras linguagens incluindo C, C++.
+Em alguns destes projetos utilizaram-se de metodologias ágeis para o gerenciamento (Scrum e Kanban).
 
-Tambem já trabalhei em projetos que envolviam a instalação e o gerenciamento de servidores Linux/Apache/Nginx na nuvem.
+Também possuo experiência prática com outras linguagens incluindo C, C++.
+
+Já atuei em projetos que envolviam a instalação e o gerenciamento de servidores Linux/Apache/Nginx na nuvem.
 
 ### Onde me encontrar
 Telefone: (48) 99646-5910
@@ -16,28 +18,3 @@ Telefone: (48) 99646-5910
 [Github](https://github.com/fraterblack)
 
 [Medium](https://medium.com/@fraterblack)
-
-### Alguns sites que já desenvolvi
-[Meu Time na Rede](http://www.meutimenarede.com.br/)
-
-[Loucos por Festa](http://www.loucosporfesta.com.br/) 
-
-[Copaza Descartáveis Plásticos](http://www.copaza.com.br/)
-
-[Zaniboni + Arquitetos](http://www.zaniboniarquitetos.com.br/)
-
-[Plazapel Soluções em Descartáveis](http://www.plazapel.com.br/)
-
-[RAC Saneamento](http://www.racsaneamento.com.br/)
-
-[Salvaro Implementos Rodoviários](http://www.salvaroimplementos.com.br/)
-
-[Teixeira Têxtil](http://www.teixeiratextil.com.br/)
-
-[Machado & Kronemberger Arquitetura e Design](http://www.machadokronemberger.com.br/)
-
-[Bezbatti Imóveis](http://www.bezbatti.com/imoveis)
-
-[Pereira Automóveis](http://www.pereiraautomoveis.com.br/)
-
-[Uni Plásticos](http://www.uniplasticos.com.br)
