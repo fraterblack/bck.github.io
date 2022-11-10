@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Ao longo da minha carreira tive a oportunidade de trabalhar em projetos que envolviam o uso das seguintes linguagens/tecnologias: PHP (Laravel e Symfony), C#, Java, NodeJs, Javascript, Typescript, MySQL, PostgreSql, Framerworks Frontend AngularJs e Angular, HTML5, CSS3.
+Ao longo da minha carreira tive a oportunidade de trabalhar em projetos que envolviam o uso das seguintes linguagens/tecnologias: PHP (Laravel e Symfony), C#, Java, NodeJs, Javascript, Typescript, MySQL, PostgreSql. Framerworks Frontend AngularJs, Angular e Vuejs. HTML5 e CSS3.
 
 Em alguns destes projetos utilizaram-se de metodologias ágeis para o gerenciamento (Scrum e Kanban).
 
